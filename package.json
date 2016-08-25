@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Yoshua Wuyts <yoshuawuyts@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "rethinkdb": "^2.3.2"
   }
